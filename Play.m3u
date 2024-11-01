@@ -1,0 +1,216 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="akash16" tvg-logo="https://i.ibb.co.com/NnGSTv6/BTV-Farid.png" group-title="Bangladesh", BTV
+https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/live-orgin/btvbd-office-sg.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="akash2" tvg-logo="https://i.ibb.co.com/sHQFTTN/Indipendent-farid.png" group-title="Bangladesh", Independent TV
+https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/live-orgin/independent-8-org.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="akash3" tvg-logo="https://i.ibb.co.com/C68mTwM/ekattor-Farid.jpg" group-title="Bangladesh", Ekattor TV
+#https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/live-orgin/ekattor.stream/chunks.m3u8
+http://103.205.133.71/EkattorFHD/index.m3u8
+#EXTINF:-1 tvg-id="akash3" tvg-logo="https://i.ibb.co.com/nnkHDwy/Channel-I-farid.jpg" group-title="Bangladesh", Channel I 
+https://channel-i-tv.rockstreamer.com/chlive/121212/chunks.m3u8
+
+#EXTINF:-1 tvg-id="akash6" tvg-logo="https://i.ibb.co.com/2tqDddN/Atn-News-Farid.jpg" group-title="Bangladesh", ATN Bangla
+https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="akash6" tvg-logo="https://i.ibb.co.com/2tqDddN/Atn-News-Farid.jpg" group-title="Bangladesh", ATN News
+https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/live-orgin/atnws-sg.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="akash36" tvg-logo="https://i.ibb.co.com/Lrms0X5/channel24-Farid.jpg" group-title="Bangladesh", Channel 24
+#https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
+http://103.205.133.71/Channel23HD/index.m3u8
+#EXTINF:-1 tvg-id="akash40" tvg-logo="https://i.ibb.co.com/Lgr4t8c/jamuna-Farid.jpg" group-title="Bangladesh", Jamuna TV
+#https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+http://103.205.133.71/JamunaTV/index.m3u8
+#EXTINF:-1 tvg-id="akash40" tvg-logo="https://i.ibb.co.com/kBH3Lzt/dbc-news-farid.jpg" group-title="Bangladesh", DBC News
+https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="akash40" tvg-logo="https://i.ibb.co.com/VDsQmDP/mohona-Farid.jpg" group-title="Bangladesh", Mohona TV
+http://xsmarters.top:8080/live/0966717777/0966717777/245920.ts
+
+#EXTINF:-1 tvg-id="akash14" tvg-logo="https://i.ibb.co.com/5sjL0Dk/Ntv-Farid.png" group-title="Bangladesh", NTV
+#http://bajimath.com/sa/amarbdflix/stream.m3u8?id=NTV
+https://crichd-live.top/live/jadoo/m3u8.php?c=ntv&e=m3u8|referer=https://crichd-live.top//
+
+#EXTINF:-1 tvg-id="akash15" tvg-logo="https://i.ibb.co.com/frk4h09/Bangla-Vision-Farid.jpg" group-title="Bangladesh", Bangla Vision
+https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/live-orgin/banglav000.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="akash16" tvg-logo="https://i.ibb.co.com/GdHWpyt/BTV-World-Farid.png" group-title="Bangladesh", BTV World
+
+#EXTINF:-1 tvg-id="akash17" tvg-logo="https://i.ibb.co.com/xzkZwCS/somoynews-Farid.jpg" group-title="Bangladesh", Somoy TV
+https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/8j6zYwP/rtvbd-Farid.jpg" group-title="Bangladesh", RTV
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/D8YbbmY/asian-tv-farid.jpg" group-title="Bangladesh", asian TV 
+https://mtlivestream.com/asian/ytlive/index.m3u8
+
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/DWNqXtn/deepto-tv-Farid.png" group-title="Bangladesh", Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/0QZ0M5G/Boishakhi-TV-Farid.jpg" group-title="Bangladesh", Boishakhi TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/X2xm07j/ekusheytv-Farid.jpg" group-title="Bangladesh", Ekushey TV
+https://ekusheyserver.com/etvlivesn.m3u8
+
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/QMyhqHm/mytv-Farid.jpg" group-title="Bangladesh", mytv
+https://mytvbangla.com/0.m3u8
+
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/pbvw393/news24-Farid.jpg" group-title="Bangladesh", News 24
+https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/PtHQgVz/Maasranga-TV-Farid.jpg" group-title="Bangladesh", Maasranga TV 
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/c1RcSk4/bijoytv-Farid.jpg" group-title="Bangladesh", Bijoy TV 
+https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/live-orgin/bijoy00.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/pzh4hHd/Deshi-TVBangla-Farid.png" group-title="Bangladesh", Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XDFwYdB/DESH-TV-farid.png" group-title="Bangladesh", Desh TV 
+https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/live-orgin/deshtv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/2cm8bcB/satv-Farid.jpg" group-title="Bangladesh", SATV
+https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/live-orgin/satvoff5666.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/4jTpPtt/ekhontv-Farid.jpg" group-title="Bangladesh", Ekhon TV
+https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/live-orgin/globaltv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rFN9SFt/ch9-Farid.jpg" group-title="Bangladesh", Channel 9
+https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/live-orgin/channel9hd.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q6kbJv7/Ten-Prime-Farid.jpg" group-title="Bangladesh", Ten TV Prime
+https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/tenprime.stream/live-orgin/tenprime.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="akash16" tvg-logo="https://i.ibb.co.com/vwspvkT/Nagorik-TV-Farid.jpg" group-title="Bangladesh", Nagoric tv
+https://crichd-live.top/live/jadoo/m3u8.php?c=nagorik_tv&e=m3u8|referer=https://crichd-live.top//
+
+#EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/06/gtv_live.jpg" group-title="Bangladesh", Gazi TV 
+http://fcdn.bdixsports.live:1935/event/event.stream/playlist.m3u8
+#http://bajimath.com/sa/amarbdflix/stream.m3u8?id=GTV
+
+
+
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/K6hfpp4/atn-islamic-tv-farid.jpg" group-title="Islamic", ATN Islamic TV
+https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/x8FK05c/Islam-Bangla-Farid.jpg" group-title="Islamic", Islam Bangla
+https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/SxJHmdx/Madani-Channel-Bangla-Farid.jpg" group-title="Islamic", Madani TV Bangla
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8 
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/SxJHmdx/Madani-Channel-Bangla-Farid.jpg" group-title="Islamic", Madani TV Urdu
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/SxJHmdx/Madani-Channel-Bangla-Farid.jpg" group-title="Islamic", Madani TV English
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/3ppGGzf/Peace-TV-Bangla-Farid.png" group-title="Islamic", Peace TV Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/3ppGGzf/Peace-TV-Bangla-Farid.png" group-title="Islamic", Peace TV English
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/3ppGGzf/Peace-TV-Bangla-Farid.png" group-title="Islamic", Peace TV Urdu
+https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
+
+
+#EXTINF:-1 tvg-id="akash18" tvg-logo="https://i.ibb.co.com/hKDwXSB/Zee-Bangla-HD-Farid.webp" group-title="Kolkata Bangla", ZEE BANGLA HD
+#http://bd.ottbd.online:2082/live/rozario859/01327184859/438.m3u8
+http://103.205.133.71/ZeeBangla/index.m3u8
+#EXTINF:-1 tvg-id="akash18" tvg-logo="https://i.ibb.co.com/hKDwXSB/Zee-Bangla-HD-Farid.webp" group-title="Kolkata Bangla", ZEE BANGLA
+https://tmsbd.top/jdddlaaa/m3u8.php?c=zee_bangla&e=m3u8
+#EXTINF:-1 tvg-id="akash21" tvg-logo="https://i.ibb.co.com/jvHdctB/Colors-Bangla-Farid.png" group-title="Kolkata Bangla", Colors Bangla
+#https://neestreamtv.com/jcinema/stream.m3u8?id=3774158|referer=https://neestreamtv.com//
+http://103.205.133.71/colorshd/index.m3u8
+#EXTINF:-1 tvg-id="akash28" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720359542393.png" group-title="Kolkata Bangla", Star Jalsha HD
+#http://bd.ottbd.online:2082/live/rozario859/01327184859/24129.m3u8
+http://103.205.133.71/StarJalshaFHD/index.m3u8
+#EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/hVjQWKS/Humtv-Farid.png" group-title="Hindi Entertainment", HUM TV
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/D9Zzbcr/Hum-Sitare-Farid.jpg" group-title="Hindi Entertainment", HUM Sitare
+http://xtv.ooo:8080/live/874246786/743567899/25983.ts
+#EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/8zW73Vt/Geo-Tv-Farid.png" group-title="Hindi Entertainment", Geo Entertainment
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/8zW73Vt/Geo-Tv-Farid.png" group-title="Hindi Entertainment", Geo Kahani
+http://xtv.ooo:8080/live/874246786/743567899/221341.ts
+#EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/5KCkSTR/Apna-Channel-Farid.jpg" group-title="Hindi Entertainment", Apna Channel
+http://xtv.ooo:8080/live/874246786/743567899/25998.ts
+#EXTINF:-1 tvg-logo="https://www.pakistantvratings.com/assets/img/channel-logo/ary-zindagi-logo.png" group-title="Hindi Entertainment", ARY Zindagi
+https://mhdtvplay.com/aryzap/stream.m3u8?id=zindagi|Referer=https://mhdtvplay.com//
+#EXTINF:-1 tvg-id="akash25" tvg-logo="https://www.pakistantvratings.com/assets/img/channel-logo/ary-digital-logo.png" group-title="Hindi Entertainment", ARY Digital
+https://mhdtvplay.com/aryzap/stream.m3u8?id=arydigital|Referer=https://mhdtvplay.com//
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bm7fGc8/Sony-Entertainmenthd-Farid.png" group-title="Hindi Entertainment", Sony Entertainment
+https://toffee.iptvbd.xyz/api/sony_entertainment.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bm7fGc8/Sony-Entertainmenthd-Farid.png" group-title="Hindi Entertainment", Sony Entertainment HD
+https://toffee.iptvbd.xyz/api/sony_entertainmnt_hd.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927537752.png" group-title="Hindi Entertainment", Star PLUS
+https://drmlive.in/yupptv/premium/starplusau.m3u8|referer=https://drmlive.in//
+#EXTINF:-1 tvg-logo="https://www.india-forums.com/tellybuzz/images/uploads/7CF_star_bharat.jpg" group-title="Hindi Entertainment", Star Bharat
+https://drmlive.in/yupptv/premium/lifeokau.m3u8|referer=https://drmlive.in//
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720701862733.png" group-title="Hindi Entertainment", Zee TV HD
+https://live.drmlive-02.workers.dev/zee/zee-tv-hd.m3u8
+#EXTINF:-1 tvg-logo="https://www.classic.com.np/wp-content/uploads/2022/01/14-3.png" group-title="Hindi Entertainment", Zee Anmoll
+https://nayeemparvez.online/zeppyxxx/stream.m3u8?id=zee-zeeanmol
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4p27G69/tv-HD-Farid.webp" group-title="Hindi Entertainment", &tv HD
+https://live.drmlive-02.workers.dev/zee/and-tv-hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Wytg0sD/Sony-Sab-Farid.png" group-title="Hindi Entertainment", Sony SuB
+https://toffee.iptvbd.xyz/api/sony_sab_hd.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/sony_pal_23oct_masthead_logo.png" group-title="Hindi Entertainment", Sony Pal
+https://keralamaxtv.com/sliv/stream.php?id=1894&e=.m3u8|referer=https://keralamaxtv.com//
+#EXTINF:-1 tvg-logo="https://zeerakmedia.com/wp-content/uploads/2024/02/Sony-Kal.png" group-title="Hindi Entertainment", Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JnZ2hJG/Colors-HD-Farid.png" group-title="Hindi Entertainment", Colors HD
+http://bd.ottbd.online:2082/live/rozario859/01327184859/24789.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PxXLP23/Big-Magic-Farid.png" group-title="Hindi Entertainment", Big Magic
+https://live.drmlive-02.workers.dev/zee/big-magic.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dfG5w7g/Zee-Zest-Farid.png" group-title="Hindi Entertainment", Zee Zest HD
+https://live.drmlive-02.workers.dev/zee/zee-zest-hd.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/r7p8qXJ/pictures-HD-Farid.webp" group-title="Hindi Movies", &pictures HD
+https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q65pc3C/Xplore-HD-Farid.webp" group-title="Hindi Movies", &xplor HD
+https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic_SD.png" group-title="Hindi Movies", Zee Classic
+https://nayeemparvez.online/zeppyxxx/stream.m3u8?id=zee-176
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BjvMxX7/Zee-Bollywood-Farid.webp" group-title="Hindi Movies", Zee Bollywood
+https://live.drmlive-02.workers.dev/zee/zee-bollywood.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pjYPPr9/Zee-Action-Farid.webp" group-title="Hindi Movies", Zee Action
+https://live.drmlive-02.workers.dev/zee/zee-action.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4pzGSmh/Zee-Anmoll-Cinema-Farid.jpg" group-title="Hindi Movies", Anmoll Cinema
+https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4pzGSmh/Zee-Anmoll-Cinema-Farid.jpg" group-title="Hindi Movies", Anmoll Cinemaa 2
+https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema-2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kX9VXvk/Zee-Cinema-HD-Farid.webp" group-title="Hindi Movies", Zee Cinema HD
+https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kX9VXvk/Zee-Cinema-HD-Farid.webp" group-title="Hindi Movies", Zee Cinema USA
+http://xtv.ooo:8080/live/874246786/743567899/206268.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rdkyHzb/Colors-Cineplex-HD-Farid.png" group-title="Hindi Movies", Cineplex
+https://drmlive.in/yupptv/premium/colorscineplexus.m3u8|referer=https://drmlive.in//
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rdkyHzb/Colors-Cineplex-HD-Farid.png" group-title="Hindi Movies", Cineplex HD
+https://fifabangladesh.live/VHOD/go.php?id=Colors_Cineplex_voot_MOB
+#EXTINF:-1 tvg-id="akash20" tvg-logo="https://i.ibb.co.com/202j09Y/Cineplex-Superhits-Farid.webp" group-title="Hindi Movies", Cineplex Superhits
+https://neestreamtv.com/jcinema/stream.m3u8?id=3479683|referer=https://neestreamtv.com//
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vqmsySt/Cineplex-Bollywood-Farid.jpg" group-title="Hindi Movies", Cineplex Bollywood
+https://neestreamtv.com/jcinema/stream.m3u8?id=3845693|referer=https://neestreamtv.com//
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/6Zb3KSd/The-Movie-Club-Farid.jpg" group-title="Hindi Movies", The Movie Club
+https://jmp2.uk/sam-INBD21000016Y.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-black.png" group-title="Hindi Movies", BBO
+https://drmlive.in/yupptv/premium/bbo.m3u8|referer=https://drmlive.in//
+#EXTINF:-1 tvg-id="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/BBO-Classic-white.png" group-title="Hindi Movies", BBO classic
+https://drmlive.in/yupptv/premium/bboclassic.m3u8|referer=https://drmlive.in//
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/zJrTMH5/Shemaroo-Bollywood-Farid.jpg" group-title="Hindi Movies", Shemaroo Bollywood
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/2ZmgH8L/Bollywood-Classic-Farid.png" group-title="Hindi Movies", Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/N7gnwmM/Bollywood-HD-Farid.jpg" group-title="Hindi Movies", Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/9yCsnD3/Bollywood-Prime-Farid.jpg" group-title="Hindi Movies", Bollywood Prime
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/FHWGqqS/Miniplex-Farid.jpg" group-title="Hindi Movies", Miniplex
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/J3LqKR2/Star-utsav-Gold-Farid.jpg" group-title="Hindi Movies", Utsav GOLD
+http://xtv.ooo:8080/live/874246786/743567899/221257.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dLFbPq7/Star-Gold.jpg" group-title="Hindi Movies", STAR GOLD
+#http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-GOLD
+http://abcnew.site:8880/29ca11113n01/adsfer3223/55257
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ld1yBFq/Star-Gol
